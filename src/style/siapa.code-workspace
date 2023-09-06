@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../siapa"
+		},
+		{
+			"path": "../assets/images"
+		},
+		{
+			"path": "../Components"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,70 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/images/Bg/potret.jpg");
+    background-size: cover;
+}
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content:end;
+    align-items:end;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.trending {
+    height:auto;
+    background: url("../assets/images/Bg/hitam.jpg");
+    background-size: cover;
+}  
+
+.movieWrapper {
+
+}
+
+.movieImage {
+    height: auto;;
+    background-color: black;
+    margin: 5px;
+    pad: 5px;
+}
+
+.Superhero {
+    height: auto;
+    background: url("../assets/images/Bg/cahaya.jpeg");
+    background-size: cover;
+}
+
+.saya {
+    height: 425px;
+}
+.nama {
+height:400px;
+
+}
+
+.aku {
+    height: 500px;
+}
+
+.kamu {
+    height: 473px;
+}
+.DIA {
+    height: 427px;
+}
+.kitasama {
+    height: 430px;
+}
+.yaya {
+    height: 424px;
+}
+.sita {
+    height: 382px;
+}
